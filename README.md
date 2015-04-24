@@ -9,9 +9,9 @@
 ## Second, # the script merges (column bind) the three datasets X_test, subject_test, y_test (in that order) into one dataset called merged_test
 
 ## Third, the script reads the separate train files and loads them into memory:
-## read the data from file "X_train.txt" into X_train
-## read the data from file "subject_train.txt" into subject_train
-## read the data from file "y_test.txt" into y_test
+## 1. read the data from file "X_train.txt" into X_train
+## 2. read the data from file "subject_train.txt" into subject_train
+## 3. read the data from file "y_test.txt" into y_test
 ## merge (column bind) the three datasets X_train, subject_train, y_train (in that order) into one dataset called merged_train
 
 
