@@ -1,15 +1,15 @@
 # Tidy Data Codebook
 ## Coursera Getting and Cleaning Data
 
-### The purpose of this dataset is to provide summary statistics for experimental data applied to 30 people who performed 6 different activities (laying, sitting, standing, walking, walking downstairs, and walking upstairs. 
-### Various measures were collected using a Samsung smartphone strapped to their side.  
-### The raw dataset was melted and summarized into averages of the means and standard deviations of the indicators for each person for each activity.
+The purpose of this dataset is to provide summary statistics for experimental data applied to 30 people who performed 6 different activities (laying, sitting, standing, walking, walking downstairs, and walking upstairs. 
+Various measures were collected using a Samsung smartphone strapped to their side.  
+The raw dataset was melted and summarized into averages of the means and standard deviations of the indicators for each person for each activity.
 
-## Description of Variables: 
+### Description of Variables: 
 
-## * Subject
-	. The participants in the experiment
-	. Range from 1 to 30 participants
+* Subject
+	+ The participants in the experiment
+	+ Range from 1 to 30 participants
 
 ## * Activity
 	. Range from 1 to 6
